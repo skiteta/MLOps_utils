@@ -2,7 +2,7 @@
 
 ## Purpose
 
-* The purpose of this project is to summarize findings from articles, reference books, and work on MLOps.
+* This repository is for placing code related to DevOps in machine learning.
 
 ## Detail
 
