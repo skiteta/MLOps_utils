@@ -1,4 +1,4 @@
-# MLOps_tips
+# MLOps_utils
 
 ## Purpose
 
